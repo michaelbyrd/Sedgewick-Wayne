@@ -2,7 +2,7 @@
  * This program take an argument N and computes the number of primes
  * less than of equal to N.
  */
-package Chapter1;
+package chapter1;
 
 /**
  * @author byrd

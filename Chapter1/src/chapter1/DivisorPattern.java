@@ -3,7 +3,7 @@
  * nested for loops to print an N-by-N table with an asterisk
  * in row i and column j if either i divides j or j divides i.
  */
-package Chapter1;
+package chapter1;
 
 /**
  * @author Michael Byrd

@@ -2,7 +2,7 @@
  * This program takes two arguments and produces a sample of
  * M of the integers from 0 to N-1.
  */
-package Chapter1;
+package chapter1;
 
 /**
  * @author byrd
